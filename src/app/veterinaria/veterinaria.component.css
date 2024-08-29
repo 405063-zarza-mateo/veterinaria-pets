@@ -1,0 +1,10 @@
+.container{
+    border: 3px solid red;
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+}
